@@ -1,6 +1,6 @@
 # Report
 
-**Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
+Daan Dumon: <!-- TODO: fill in your full name here, firstname and lastname -->
 
 ---
 
@@ -8,23 +8,23 @@
 
 **What is working and what is not?**
 
-<!-- TODO: Fill out this question -->
+the assignemnt works 
 
 **Was the assignment to hard or to easy? What was too hard or what was too easy**
 
-<!-- TODO: Fill out this question -->
+easy
 
 **For what part of the assignment did you need to do some research? (for example Google search)**
 
-<!-- TODO: Fill out this question -->
+I had so search how to make the table: https://www.w3schools.com/html/html_tables.asp
 
 **How much time did you approximately spend on this assignment (excluding time of report)?**
 
-<!-- TODO: Fill out this question -->
+10minutes
 
 **Is there any code you copied from someone else or from the Internet? Provide the source here (author, website, ...). Also explain what you changed to the source code.**
 
-<!-- TODO: Fill out this question -->
+i didn't copy anything
 
 **Is there a piece of code that you are not satisfied with. Place it here and describe what you think is wrong with it.**
 
