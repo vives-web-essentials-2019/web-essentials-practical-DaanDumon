@@ -1,6 +1,6 @@
 # Report
 
-**Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
+**Name**: Daan Dumon
 
 ---
 
