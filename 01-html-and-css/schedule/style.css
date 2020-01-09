@@ -1,0 +1,19 @@
+body{
+    background-color: cyan;
+}
+
+
+
+.grid{
+    display: inline-grid;
+    grid-template-columns:  200px 200px 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
+    align-items: center;
+    grid-gap: 15px;
+    border: black;
+    
+}
+
+.day{
+    border: 5px black;
+}
